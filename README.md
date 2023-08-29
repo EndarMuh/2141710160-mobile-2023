@@ -1,7 +1,7 @@
 # **Assalamualaikum Wr Wb** 
 # Praktikum Pemrograman Mobile 2023
 
-## **Repository ini berisi tentang Laporan dan pengumpulan Jobseat Praktikum Pemrograman Mobile 2023**
+## **Repository ini berisi tentang Laporan dan pengumpulan Jobsheet Praktikum Pemrograman Mobile 2023**
 
 - Nama    : Muhammad Endar Darmawan
 - Kelas   : 3F
