@@ -5,6 +5,8 @@
 
 - Nama    : Muhammad Endar Darmawan
 - Kelas   : 3F
+- NIM     : 2141720160
+- Absen   : 21
 - Prodi   : D-IV Teknik Informatika
 - Jurusan : Teknologi Informasi
 
@@ -12,7 +14,9 @@
 
 #For more information
 - WA    : 089516824205
-- email : endarmuhammad38@gmail.com
+- Email : endarmuhammad38@gmail.com
+- IG    : @endarmuh_
 
 # Terima Kasih
+# Hatur Nuhun
 --------------
