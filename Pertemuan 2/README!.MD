@@ -1,9 +1,11 @@
 # WEEK 2
 
+```sh
 Muhammad Endar Darmawan
-
+```
+```sh
 2141720160
-
+```
 
 # Soal 1
 Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluaran (output) sesuai yang diminta!
