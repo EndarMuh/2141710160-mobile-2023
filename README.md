@@ -10,12 +10,12 @@
 - Prodi   : D-IV Teknik Informatika
 - Jurusan : Teknologi Informasi
 
-## Politeknik Negri Malang
+## Politeknik Negeri Malang
 
 #For more information
 - WA    : 089516824205
+- Line  : rosberg_06
 - Email : endarmuhammad38@gmail.com
-- IG    : @endarmuh_
 
 # Terima Kasih
 # Hatur Nuhun
