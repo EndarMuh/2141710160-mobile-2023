@@ -451,7 +451,7 @@ Result:
 
 Jawab:
 
-[Repository Praktikum Week 5 - Fundamental Dart](https://github.com/voltanz/2141720077-mobile-2023/tree/main/Week-05)
+[Repository Praktikum Week 5 - Fundamental Dart](https://github.com/EndarMuh/2141710160-mobile-2023/tree/main/Pertemuan%205)
 
 
 2. Pada praktikum 4 mulai dari Langkah 3 sampai 6, buatlah file widget tersendiri di folder basic_widgets, kemudian pada file main.dart cukup melakukan import widget sesuai masing-masing langkah tersebut!
@@ -500,7 +500,7 @@ Result:
 
 Jawab:
 
-[Repository Codelabs: Your first Flutter App - Namer App](https://github.com/voltanz/namer_app)
+[Repository Codelabs: Your first Flutter App - Namer App](https://github.com/EndarMuh/2141710160-mobile-2023/tree/main/Pertemuan%205/namer_app)
 
 4. README md berisi: capture hasil akhir tiap praktikum (side-by-side, bisa juga berupa file GIF agar terlihat proses perubahan ketika ada aksi dari pengguna) di browser dan perangkat fisik (device) dengan menampilkan NIM dan Nama Anda sebagai ciri pekerjaan Anda. Jika mode developer di perangkat HP Anda belum aktif, silakan cari di internet cara mengaktifkannya!
 
@@ -511,5 +511,3 @@ Jawab:
 5. Kumpulkan berupa link repository/commit GitHub Anda ke tautan spreadsheet yang telah disepakati oleh dosen!
 
 Jawab:
-
-https://github.com/voltanz/2141720077-mobile-2023/tree/main/Week-05
