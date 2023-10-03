@@ -1,7 +1,12 @@
-import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
-return MaterialApp(
+class MyLoadingCupertino extends StatelessWidget {
+  const MyLoadingCupertino({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
       home: Container(
         margin: const EdgeInsets.only(top: 30),
         color: Colors.white,
@@ -16,3 +21,5 @@ return MaterialApp(
         ),
       ),
     );
+  }
+}
