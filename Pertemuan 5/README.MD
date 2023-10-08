@@ -14,13 +14,13 @@ Muhammad Endar Darmawan
 
 Buka VS Code, lalu tekan tombol **Ctrl + Shift + P** maka akan tampil Command Palette, lalu ketik **Flutter**. Pilih **New Application Project**.
 
-![Output](docs/ss1.png)
+![Output](img/ss1.png)
 
 ### Langkah 2:
 
 Kemudian buat folder **sesuai style** laporan praktikum yang Anda pilih. Disarankan pada folder dokumen atau desktop atau alamat folder lain yang tidak terlalu dalam atau panjang. Lalu pilih **Select a folder to create the project in**.
 
-![Output](docs/ss2.png)
+![Output](img/ss2.png)
 
 Kode ini digunakan untuk mengilustrasikan cara kerja list dalam ```Dart```, memeriksa panjang list, mengakses elemen list, mengubah nilai elemen list, dan mengonfirmasi perubahan nilai dengan pernyataan asertif.
 
@@ -28,11 +28,11 @@ Kode ini digunakan untuk mengilustrasikan cara kerja list dalam ```Dart```, meme
 
 Buat nama project flutter **hello_world** seperti berikut, lalu tekan **Enter**. Tunggu hingga proses pembuatan project baru selesai.
 
-![Output](docs/ss3.png)
+![Output](img/ss3.png)
 
 Jika sudah selesai proses pembuatan project baru, pastikan tampilan seperti berikut. Pesan akan tampil berupa **"Your Flutter Project is ready!"** artinya Anda telah berhasil membuat project Flutter baru.
 
-![Output](docs/ss4.png)
+![Output](img/ss4.png)
 
 ## Praktikum 2: Membuat Repository GitHub dan Laporan Praktikum
 
@@ -52,7 +52,7 @@ Silakan screenshot seperti pada Langkah 11, namun teks yang ditampilkan dalam ap
 
 Result:
 
-![Output](src/hello_world/img/01.png)
+![Output](docs/hello_world/img/01.png)
 
 ## Praktikum 3: Menerapkan Widget Dasar
 
@@ -82,7 +82,7 @@ Lakukan import file ```text_widget.dart``` ke main.dart, lalu ganti bagian text 
 
 Result:
 
-![Output](src/hello_world/img/02.png)
+![Output](docs/hello_world/img/02.png)
 
 ### Langkah 2:
 
@@ -107,7 +107,7 @@ Lakukan import file ```text_widget.dart``` ke main.dart, lalu ganti bagian text 
 
 Result:
 
-![Output](src/hello_world/img/03.png)
+![Output](docs/hello_world/img/03.png)
 
 ## Praktikum 4: Menerapkan Widget Material Design dan iOS Cupertino
 
@@ -137,7 +137,7 @@ return MaterialApp(
 
 Result:
 
-![Output](src/hello_world/img/04.png)
+![Output](docs/hello_world/img/04.png)
 
 ### Langkah 2:
 
@@ -163,7 +163,7 @@ return MaterialApp(
 
 Result:
 
-![Output](src/hello_world/img/05.png)
+![Output](docs/hello_world/img/05.png)
 
 ### Langkah 3:
 
@@ -252,7 +252,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 Result:
 
-![Output](src/hello_world/img/06.png)
+![Output](docs/hello_world/img/06.png)
 
 ### Langkah 4:
 
@@ -323,7 +323,7 @@ showAlertDialog(BuildContext context) {
 
 Result:
 
-![Output](src/hello_world/img/07.png)
+![Output](docs/hello_world/img/07.png)
 
 ### Langkah 5:
 
@@ -357,7 +357,7 @@ class MyApp extends StatelessWidget {
 
 Result:
 
-![Output](src/hello_world/img/08.png)
+![Output](docs/hello_world/img/08.png)
 
 ### Langkah 6:
 
@@ -443,7 +443,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 Result:
 
-![Output](src/hello_world/img/09.png)
+![Output](docs/hello_world/img/09.png)
 
 ## Tugas Praktikum 
 
@@ -494,20 +494,21 @@ class MyApp extends StatelessWidget {
 
 Result:
 
-![Output](src/hello_world/img/10.png)
+![Output](docs/hello_world/img/10.png)
 
 3. Selesaikan Codelabs: Your first Flutter app, lalu buatlah laporan praktikumnya dan push ke repository GitHub Anda!
 
 Jawab:
 
-[Repository Codelabs: Your first Flutter App - Namer App](https://github.com/EndarMuh/2141710160-mobile-2023/tree/main/Pertemuan%205/namer_app)
+[Repository Codelabs: Your first Flutter App - Namer App](https://github.com/EndarMuh/2141710160-mobile-2023/tree/main/Pertemuan%205/docs/namer_app)
 
 4. README md berisi: capture hasil akhir tiap praktikum (side-by-side, bisa juga berupa file GIF agar terlihat proses perubahan ketika ada aksi dari pengguna) di browser dan perangkat fisik (device) dengan menampilkan NIM dan Nama Anda sebagai ciri pekerjaan Anda. Jika mode developer di perangkat HP Anda belum aktif, silakan cari di internet cara mengaktifkannya!
 
 Jawab:
 
-![screen.gif](docs/screen.gif)
+![screen.gif](img/screen.gif)
 
 5. Kumpulkan berupa link repository/commit GitHub Anda ke tautan spreadsheet yang telah disepakati oleh dosen!
 
 Jawab:
+![Pengumpulan](img/bukti.png)
