@@ -44,8 +44,6 @@ Dikarenakan Project ini sudah saya letakkan pada repository Github, maka saya la
 
 Kembali ke VS Code, ubah platform di pojok kanan bawah ke emulator atau device atau bisa juga menggunakan browser Chrome. Lalu coba running project **hello_world** dengan tekan **F5** atau **Run > Start Debugging**. Tunggu proses kompilasi hingga selesai, maka aplikasi flutter pertama Anda akan tampil seperti berikut.
 
-![Output](docs/ss5.png)
-
 ### Langkah 12:
 
 Silakan screenshot seperti pada Langkah 11, namun teks yang ditampilkan dalam aplikasi berupa nama lengkap Anda. Simpan file screenshot dengan nama **01.png** pada folder **images** (buat folder baru jika belum ada) di project hello_world Anda. Lalu ubah isi ```README.md``` seperti berikut, sehingga tampil hasil screenshot pada file ```README.md```. Kemudian push ke repository Anda.
