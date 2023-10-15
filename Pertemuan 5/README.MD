@@ -506,9 +506,19 @@ Jawab:
 
 Jawab:
 
-![screen.gif](img/screen.gif)
+![screen.gif](img/gif/1.gif)
+
+![screen.gif](img/gif/2.gif)
+
+![screen.gif](img/gif/3.gif)
+
+![screen.gif](img/gif/4.gif)
+
+![screen.gif](img/gif/5.gif)
 
 5. Kumpulkan berupa link repository/commit GitHub Anda ke tautan spreadsheet yang telah disepakati oleh dosen!
 
 Jawab:
 ![Pengumpulan](img/bukti.png)
+
+@EndarMuh
