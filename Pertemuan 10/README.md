@@ -142,7 +142,7 @@ Run aplikasi tersebut dengan tekan F5, maka hasilnya akan seperti berikut.<p>
 
 6. Kumpulkan laporan praktikum Anda berupa link repository GitHub ke spreadsheet yang telah disediakan!
 
-    >![Bukti Pengumpulan](img/4.png)
+    >![Bukti Pengumpulan](img/Pengumpulan.png)
 
 <br>
 @EndarMuh
