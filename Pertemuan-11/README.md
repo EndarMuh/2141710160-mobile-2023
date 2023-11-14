@@ -290,7 +290,7 @@ Lakukan Hot restart (bukan hot reload) pada aplikasi Flutter Anda. Anda akan mel
     
      Hasil Output Praktikum 1 GIF
 
-     ![Output](img/praktikum1.gif)
+     <img src="img/Praktikum1.gif">
      
      Hasil Output Praktikum 1.1 GIF
      
@@ -505,7 +505,7 @@ Akhirnya, run atau tekan F5 jika aplikasi belum running. Tidak akan terlihat per
     
     Hasil Output Praktikum 2 GIF
     
-    ![Output](img/praktikum2.gif)
+    <img src="img/Praktikum2.gif">
 
     Praktikum 2 ini menambahkan sebuah text dibawah yang menunjukkan jumlah task yang telah diselesaikan atau diceklis dari aplikasi Praktikum 1. Kemudian terdapat tambahan pada kode program untuk menerapkan state management yang baik dengan menggunakan InheritedWidget dan InheritedNotifier.
 
@@ -830,7 +830,7 @@ Terakhir, run atau tekan F5 untuk melihat hasilnya jika memang belum running. Bi
     
     Hasil Output Praktikum 3 GIF
     
-    ![Output](img/praktikum3.gif)
+    <img src="img/Praktikum3.gif">
     
     Implementasi ini memungkinkan pengguna untuk mengelola dan melihat daftar rencana dengan lebih dinamis, dan aplikasi dapat menyesuaikan tampilan sesuai dengan perubahan pada data yang dikelola.
 
