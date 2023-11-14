@@ -287,16 +287,15 @@ Lakukan Hot restart (bukan hot reload) pada aplikasi Flutter Anda. Anda akan mel
 4. Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
 
     **Jawab**
-        <table>
-        <tr>
-            <th>Hasil Output Praktikum 1 GIF</th>
-            <th>Hasil Output Praktikum 1.1 GIF</th>
-        </tr>
-        <tr>
-            <th>![Output](img/praktikum1.gif)</th>
-            <th>![Output](img/Praktikum1.1.gif)</th>
-        </tr>
-        </table>
+    
+     Hasil Output Praktikum 1 GIF
+
+     ![Output](img/praktikum1.gif)
+     
+     Hasil Output Praktikum 1.1 GIF
+     
+     ![Output](img/Praktikum1.1.gif)
+
       Aplikasi yang telah dibuat adalah aplikasi untuk menyimpan Plan dengan fitur penambahan plan dan ceklis yang dibuat dengan menggunakan struktur model-view.
 
 5. Apa kegunaan method pada Langkah 11 dan 13 dalam lifecyle state ?
@@ -503,14 +502,11 @@ Akhirnya, run atau tekan F5 jika aplikasi belum running. Tidak akan terlihat per
 4. Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
 
     **Jawab**
-        <table>
-        <tr>
-            <th>Hasil Output Praktikum 2 GIF</th>
-        </tr>
-        <tr>
-            <th>![Output](img/praktikum2.gif)</th>
-        </tr>
-        </table>
+    
+    Hasil Output Praktikum 2 GIF
+    
+    ![Output](img/praktikum2.gif)
+
     Praktikum 2 ini menambahkan sebuah text dibawah yang menunjukkan jumlah task yang telah diselesaikan atau diceklis dari aplikasi Praktikum 1. Kemudian terdapat tambahan pada kode program untuk menerapkan state management yang baik dengan menggunakan InheritedWidget dan InheritedNotifier.
 
 5. Kumpulkan laporan praktikum Anda berupa link commit atau repository GitHub ke spreadsheet yang telah disediakan!
@@ -831,15 +827,12 @@ Terakhir, run atau tekan F5 untuk melihat hasilnya jika memang belum running. Bi
 3. Lakukan capture hasil dari Langkah 14 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
 
     **Jawab**
-        <table>
-        <tr>
-            <th>Hasil Output Praktikum 3 GIF</th>
-        </tr>
-        <tr>
-            <th>![Output](img/praktikum3.gif)</th>
-        </tr>
-        </table>
-      Implementasi ini memungkinkan pengguna untuk mengelola dan melihat daftar rencana dengan lebih dinamis, dan aplikasi dapat menyesuaikan tampilan sesuai dengan perubahan pada data yang dikelola.
+    
+    Hasil Output Praktikum 3 GIF
+    
+    ![Output](img/praktikum3.gif)
+    
+    Implementasi ini memungkinkan pengguna untuk mengelola dan melihat daftar rencana dengan lebih dinamis, dan aplikasi dapat menyesuaikan tampilan sesuai dengan perubahan pada data yang dikelola.
 
 4. Kumpulkan laporan praktikum Anda berupa link commit atau repository GitHub ke spreadsheet yang telah disediakan!
 
