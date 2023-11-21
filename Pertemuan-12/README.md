@@ -1005,6 +1005,6 @@ Jawab:
     **Jawab**<p>
       [Berikut Link Repository saya (klik)](https://github.com/EndarMuh/2141710160-mobile-2023/tree/main/Pertemuan-12)<p>
 
-      ![Bukti Pengumpulan](img/Pengumpulan.png)
+![Bukti Pengumpulan](img/Pengumpulan.png)
 
 @EndarMuh
