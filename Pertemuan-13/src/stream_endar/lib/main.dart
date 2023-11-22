@@ -37,6 +37,8 @@ class _StreamHomePageState extends State<StreamHomePage> {
   late NumberStream numberStream;
   late StreamTransformer transformer;
   late StreamSubscription subscription;
+  late StreamSubscription subscription2;
+  String values = ' ';
 
   Color bgColor = Colors.blueGrey;
   late ColorStream colorStream;
@@ -57,7 +59,13 @@ class _StreamHomePageState extends State<StreamHomePage> {
 
     subscription = stream.listen((event) {
       setState(() {
-        lastNumber = event;
+        values += '$event - ';
+      });
+    });
+
+    subscription2 = stream.listen((event) {
+      setState(() {
+        values += '$event - ';
       });
     });
 
@@ -70,34 +78,7 @@ class _StreamHomePageState extends State<StreamHomePage> {
     subscription.onDone(() {
       print('onDone was called');
     });
-    // transformer = StreamTransformer<int, int>.fromHandlers(
-    //     handleData: (value, sink) {
-    //       sink.add(value * 10);
-    //     },
-    //     handleError: (error, trace, sink) {
-    //       sink.add(-1);
-    //     },
-    //     handleDone: (sink) => sink.close());
 
-    // stream.transform(transformer).listen((event) {
-    //   setState(() {
-    //     lastNumber = event;
-    //   });
-    // }).onError((error) {
-    //   setState(() {
-    //     lastNumber = -1;
-    //   });
-    // });
-
-    // stream.listen((event) {
-    //   setState(() {
-    //     lastNumber = event;
-    //   });
-    // }).onError((error) {
-    //   setState(() {
-    //     lastNumber = -1;
-    //   });
-    // });
     super.initState();
   }
 
